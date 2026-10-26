@@ -1,6 +1,6 @@
 # Instagram Clone with Tailwind CSS
 
-A responsive Instagram feed layout built with plain HTML and Tailwind CSS. It is a static UI with no JavaScript, made to practice utility-first styling.
+A responsive Instagram feed layout built with plain HTML and Tailwind CSS. It is a static UI with no JavaScript, designed to practice utility-first styling.
 
 ## Features
 
