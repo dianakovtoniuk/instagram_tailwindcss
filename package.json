@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify && node scripts/build.js"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.0",
